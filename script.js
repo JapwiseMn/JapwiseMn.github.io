@@ -1,3 +1,5 @@
+window.onload = () => {
+
 let runningTotal = 0 ;
 let buffer = "0";
 let previousOperator ;
@@ -91,3 +93,6 @@ function init(){
 }
 
 init();
+
+
+}
